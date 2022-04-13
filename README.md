@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dreyzon
-- 👀 I’m interested in Python & C++
+- 👀 I’m interested in Python & C
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ..........
+- 💞️ I’m looking to collaborate on OS
 - 📫 How to reach me ...
 
 <!---
